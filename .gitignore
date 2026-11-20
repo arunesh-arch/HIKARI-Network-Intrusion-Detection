@@ -1,0 +1,22 @@
+
+# Dataset
+*.csv
+
+# Trained models
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
